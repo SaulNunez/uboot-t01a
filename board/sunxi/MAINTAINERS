@@ -206,6 +206,11 @@ M:	Chen-Yu Tsai <wens@csie.org>
 S:	Maintained
 F:	configs/Cubietruck_plus_defconfig
 
+EKEN T01A TABLET
+M:      Saul Nunez <saul.nunez99@gmail.com>
+S:      Maintained
+F:      configs/eken_t01a_defconfig
+
 EMLID NEUTIS N5 DEV BOARD
 M:	Aleksandr Aleksandrov <aleksandr.aleksandrov@emlid.com>
 S:	Maintained
